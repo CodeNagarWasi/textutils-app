@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Ubuntu&display=swap');
+
+
+#Preview{
+    color: blue;
+}
+#Preview-content{
+    color: red;
+    border: 2px solid black;
+    padding: 7px 7px;
+    border-radius: 3px;
+    font-family: 'Oswald';
+    font-size: 29px;
+}
